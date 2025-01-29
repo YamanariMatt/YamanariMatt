@@ -26,17 +26,17 @@
 
 ## ⚡ Estatísticas do GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusYamanari&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusYamanari&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYamanari&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YamanariMatt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamanariMatt&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamanariMatt&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
 
 ## 📡 Conecte-se comigo:
 <div align="center">
-  <a href="www.linkedin.com/in/matheusyamanari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="Email: matheusvictormy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/matheusyamanari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:matheusvictormy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
