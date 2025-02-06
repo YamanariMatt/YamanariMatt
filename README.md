@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim:
 ```yaml
-👨‍💻 Estudante de Análise e Desenvolvimento de Software
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 🎯 Focado em desenvolvimento web e software
 🔥 Sempre aprendendo Python, Java, C#, HTML, CSS e JavaScript
 ⚡ Buscando desafios e novas colaborações
@@ -19,15 +19,13 @@
 
 ## 🛠 Tecnologias e Ferramentas:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,c#" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,git" />
 </div>
 
 ---
 
 ## ⚡ Estatísticas do GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamanariMatt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamanariMatt&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamanariMatt&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
