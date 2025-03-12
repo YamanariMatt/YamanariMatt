@@ -19,7 +19,7 @@
 
 ## 🛠 Tecnologias e Ferramentas:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,git,mysql,php" />
 </div>
 
 ---
