@@ -48,10 +48,6 @@
 
 ###
 
-<h2 align="left">⚡ Estatísticas do GitHub:</h2>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YamanariMatt/YamanariMatt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YamanariMatt/YamanariMatt/output/pacman-contribution-graph.svg">
