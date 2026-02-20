@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.<br>🎯 Focado em desenvolvimento web e software.<br>🔥 Sempre aprendendo Python, Java, C#, HTML, CSS e JavaScript.<br>⚡ Buscando desafios e novas colaborações.</p>
+<p align="left">👨‍💻 Analista de Sistemas.<br>🎯 Focado em desenvolvimento web e software.<br>🔥 Sempre aprendendo Python, Java, C#, HTML, CSS e JavaScript.<br>⚡ Buscando desafios e novas colaborações.</p>
 
 ###
 
